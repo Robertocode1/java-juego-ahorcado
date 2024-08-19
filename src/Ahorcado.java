@@ -20,7 +20,7 @@ public class Ahorcado {
         
 
         while (!palabraAdivinada && intentos < maxIntentos) {
-            System.out.println("palabra a adivinar: " + String.valueOf(letrasAdivinadas) + palabraSecreta.length() + "letras");
+            System.out.println("palabra a adivinar: " + String.valueOf(letrasAdivinadas) + palabraSecreta.length() + " letras");
 
             System.out.println("ingresa un letra para adivanar la palabra");
             char letra = Character.toLowerCase(scanner.next().charAt(0));
