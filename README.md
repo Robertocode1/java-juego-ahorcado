@@ -1,18 +1,8 @@
-## Getting Started
+# Este es el código para un juego básico creado en JAVA donde hay una palabra secreta y el usuario debe adivinar con 10 intentos.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Se uso:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ 1. Clase String.
+ 2. Clase Scanner.
+ 3. Bucles( while, for)
+ 4. Condicional IF.
